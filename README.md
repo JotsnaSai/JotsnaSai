@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jotsnasai" alt="jotsnasai" /></a> </p>
 
-- 🔭 I’m currently working on **Image Recognition**
+- 🔭 I’m currently working on **Data science**
 
 - 🌱 I’m currently learning **machine Learning**
 
-- 👯 I’m looking to collaborate on **Image Processing**
+- 👯 I’m looking to collaborate on **Data Analysis**
 
-- 📫 How to reach me **jotsna.12015088@lpu.in**
+- 📫 How to reach me **pjotsnasai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
