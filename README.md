@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jotsna</h1>
+
+**`Backend Developer`**
+
 <h3 align="center">A passionate Backend developer</h3>
 
 - 🔭 I’m currently working on **Backend Technologies**
