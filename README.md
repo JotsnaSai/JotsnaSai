@@ -69,14 +69,10 @@ Currently working at **Jupiter**, contributing to production-grade backend syste
 
 # 💼 Experience
 
-## Jupiter Money
+## Jupiter Money &nbsp;·&nbsp; 📍 Bengaluru, Karnataka
 
-| Role | Period |
-|------|--------|
-| Software Development Engineer | Nov 2024 – Present |
-| Backend Development Intern | Oct 2023 – Nov 2024 |
-
-📍 Bengaluru, Karnataka
+**Software Development Engineer** &nbsp;|&nbsp; `Nov 2024 – Present`  
+**Backend Development Intern** &nbsp;|&nbsp; `Oct 2023 – Nov 2024`
 
 ### Key Contributions
 - Performed RCA on 15+ production issues per quarter to identify and resolve system failures
@@ -126,11 +122,11 @@ Designed and developed a scalable asynchronous job processing system using event
 
 ---
 
-# 📫 Connect With Me
+## Let's Connect
 
-- LinkedIn: https://linkedin.com/in/pjotsnasai
-- GitHub: https://github.com/JotsnaSai
-- Email: jotsnasai33@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pjotsnasai)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jotsnasai33@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JotsnaSai)
 
 ---
 
