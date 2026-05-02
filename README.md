@@ -1,97 +1,139 @@
-# Hi, I'm P Jotsna Sai 👋
+# Hi there 👋 I'm P Jotsna Sai
 
-**Backend Software Engineer** · Microservices & Distributed Systems · Kotlin · JavaScript · Spring Boot
+Backend Software Engineer with 2+ years of experience building scalable microservices and distributed systems. I specialize in backend engineering with a strong focus on reliability, asynchronous processing, system performance, and maintainable architecture.
 
----
-
-## About Me
-
-I'm a backend engineer with 2+ years of experience designing and operating microservices at scale. I care about building systems that are **stable, observable, and easy to reason about** — not just systems that work today, but systems that the team can confidently operate and extend a year from now.
-
-Currently at **Jupiter Money**, where I work on high-throughput, event-driven backend services powering financial products for millions of users.
-
-- 🔭 &nbsp;Working on asynchronous job processing, distributed system reliability, and production observability
-- 🛠️ &nbsp;Primary stack: Node.js / Kotlin / Spring Boot / PostgreSQL / AWS
-- 📈 &nbsp;Recent wins: reduced query execution time from 900ms → <200ms across 12+ stored procedures; drove a 40% drop in production incidents through systematic RCA
-- 🎯 &nbsp;Engineering philosophy: simplicity first, observability always, performance where it matters
+Currently working at **Jupiter**, contributing to production-grade backend systems handling real-world scale and operational challenges.
 
 ---
 
-## Tech Stack
+## 🚀 About Me
 
-**Languages**
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frameworks & APIs**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Databases & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/Amazon_SNS-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+- 💻 Backend Engineer experienced in building scalable and reliable services
+- ⚙️ Interested in Distributed Systems, Event-Driven Architecture, and System Design
+- ☁️ Hands-on experience with AWS, Docker, CI/CD, and production monitoring
+- 🔍 Strong focus on performance optimization, observability, and root cause analysis
+- 📈 Passionate about writing clean, maintainable, and efficient backend systems
 
 ---
 
-## Featured Project
+# 🛠 Tech Stack
 
-### ⚙️ Asynchronous Job Processing System
-
-> Kotlin · Spring Boot · PostgreSQL · Amazon SQS · Docker · REST APIs · JPA
-
-A production-grade, fault-tolerant job processing system designed to handle high-volume workload spikes reliably.
-
-**Key design decisions:**
-
-- **Parallel execution** with configurable concurrency — scales throughput without overwhelming downstream dependencies
-- **At-least-once delivery** guaranteed via retry mechanisms with exponential backoff
-- **Dead Letter Queue (DLQ)** for failed jobs — no silent data loss, full visibility into failure modes
-- **Idempotent job execution** — safe to retry without side effects, critical for distributed reliability
-
-**What it solves:** Systems that naively process jobs synchronously either block under load or drop work silently. This design decouples submission from execution, absorbs spikes gracefully, and makes failures visible and recoverable.
+## Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" alt="Kotlin"/>
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript"/>
+</p>
 
 ---
 
-## Experience Highlights
-
-**Jupiter Money** — Software Development Engineer *(Nov 2024 – Present)*
-Backend Development Intern *(Oct 2023 – Nov 2024)*
-
-- Served as **primary on-call engineer**, resolving 95% of production issues within rotation windows
-- Conducted **RCA on 15+ production issues per quarter**, leading to a 40% reduction in incidents and 70% drop in support ticket volume
-- Optimized **12+ stored procedures**, bringing query times from 900ms → <200ms
-- Monitored API and database latency across 2 environments using CloudWatch dashboards and log-based alerting
-- Mentored 2 interns through 30+ structured code reviews; guided best-practice adoption that improved team productivity by 20%
-- Collaborated cross-functionally to resolve critical bugs without introducing latency regressions
+## Backend & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js"/>
+</p>
 
 ---
 
-## Core Concepts I Work With
-
-`Microservices Architecture` · `Distributed Systems` · `API Design` · `System Design` · `Scalability` · `Observability` · `Performance Optimization` · `Root Cause Analysis` · `Design Patterns` · `OOP` · `Agile / Scrum`
-
----
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/pjotsnasai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jotsnasai33@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JotsnaSai)
+## Databases & Messaging
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+  
+  <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Queue-Service.svg" height="45" alt="Amazon SQS"/>
+  <img src="https://icon.icepanel.io/AWS/svg/App-Integration/Simple-Notification-Service.svg" height="45" alt="Amazon SNS"/>
+</p>
 
 ---
 
-<sub>Open to backend / distributed systems roles. Always happy to talk system design, reliability engineering, or Kotlin.</sub>
+## Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/>
+</p>
+
+---
+
+## Developer Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+</p>
+
+---
+
+# 💼 Experience
+
+## Jupiter Money
+
+| Role | Period |
+|------|--------|
+| Software Development Engineer | Nov 2024 – Present |
+| Backend Development Intern | Oct 2023 – Nov 2024 |
+
+📍 Bengaluru, Karnataka
+
+### Key Contributions
+- Performed RCA on 15+ production issues per quarter to identify and resolve system failures
+- Optimized 12+ PostgreSQL stored procedures, reducing execution time from ~900ms to under 200ms
+- Monitored API and database latency across multiple environments using observability tooling
+- Served as primary on-call engineer, resolving ~95% of production incidents during rotation windows
+- Collaborated cross-functionally to reduce production incidents by 40% and support ticket volume by 70%
+- Mentored interns through structured code reviews and backend engineering best practices
+- Worked on production backend systems with emphasis on scalability, stability, and maintainability
+
+---
+
+# 📌 Featured Project
+
+## Asynchronous Job Processing System
+
+**Tech Stack:** Kotlin, Spring Boot, PostgreSQL, Amazon SQS, Docker
+
+Designed and developed a scalable asynchronous job processing system using event-driven architecture principles.
+
+### Features
+- Parallel job execution with configurable concurrency
+- Retry handling with Dead Letter Queue (DLQ)
+- Idempotent job processing
+- Fault-tolerant distributed processing
+- REST APIs for job submission and tracking
+
+### Concepts Applied
+- Distributed Systems
+- Event-Driven Architecture
+- Asynchronous Processing
+- Scalability & Reliability
+- System Design
+
+---
+
+# 📚 Areas of Interest
+
+- Distributed Systems
+- Backend Architecture
+- Event-Driven Systems
+- Scalability Engineering
+- Performance Optimization
+- Reliability Engineering
+- Observability
+- System Design
+
+---
+
+# 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/pjotsnasai
+- GitHub: https://github.com/JotsnaSai
+- Email: jotsnasai33@gmail.com
+
+---
+
+# 🧠 Engineering Philosophy
+
+> Build systems that are simple, observable, reliable, and easy to maintain at scale.
