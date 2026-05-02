@@ -64,14 +64,12 @@ A production-grade, fault-tolerant job processing system designed to handle high
 
 **What it solves:** Systems that naively process jobs synchronously either block under load or drop work silently. This design decouples submission from execution, absorbs spikes gracefully, and makes failures visible and recoverable.
 
-📂 [View Repository →](#) *(link your repo here)*
-
 ---
 
 ## Experience Highlights
 
 **Jupiter Money** — Software Development Engineer *(Nov 2024 – Present)*
-**Jupiter Money** — Backend Development Intern *(Oct 2023 – Nov 2024)*
+Backend Development Intern *(Oct 2023 – Nov 2024)*
 
 - Served as **primary on-call engineer**, resolving 95% of production issues within rotation windows
 - Conducted **RCA on 15+ production issues per quarter**, leading to a 40% reduction in incidents and 70% drop in support ticket volume
@@ -84,7 +82,7 @@ A production-grade, fault-tolerant job processing system designed to handle high
 
 ## Core Concepts I Work With
 
-`Microservices Architecture` · `Distributed Systems` · `Event-Driven Design` · `API Design` · `System Design` · `Scalability` · `Observability` · `Performance Optimization` · `Root Cause Analysis` · `Design Patterns` · `OOP` · `Agile / Scrum`
+`Microservices Architecture` · `Distributed Systems` · `API Design` · `System Design` · `Scalability` · `Observability` · `Performance Optimization` · `Root Cause Analysis` · `Design Patterns` · `OOP` · `Agile / Scrum`
 
 ---
 
